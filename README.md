@@ -4,13 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"
 
 - 🔭 I’m currently working on **Front end**
-
 - 🌱 I’m currently learning **Java Script**
-
 - 🤝 I’m looking for help with **Back end Development**
-
 - 📫 How to reach me **shubhankshi02@gmail.com**
-
 - ⚡ Fun fact **Prefer to be called Shubhi**
 
 <h3 align="left">Connect with me:</h3>
