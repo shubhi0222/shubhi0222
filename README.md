@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"
 
 - 🔭 I’m currently working on **Front end**
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **React Js**
 - 🤝 I’m looking for help with **Back end Development**
 - 📫 How to reach me **shubhankshi02@gmail.com**
 - ⚡ Fun fact **Prefer to be called Shubhi**
@@ -31,4 +31,6 @@
 </p>
 
 ### :fire: My Stats :
-[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhi0222&layout=compact&theme=buefy)](https://github.com/shubhi0222/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhi0222&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhi0222&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
