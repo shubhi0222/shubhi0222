@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Front end**
 - 🌱 I’m currently learning **React Js**
 - 🤝 I’m looking for help with **Back end Development**
-- 📫 How to reach me **saraf02shubhankshi@gmail.com**
+- 📫 How to reach me **shubhankshi02@gmail.com**
 - ⚡ Fun fact **Prefer to be called Shubhi**
 
 
